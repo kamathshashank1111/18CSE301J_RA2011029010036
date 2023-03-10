@@ -280,3 +280,8 @@ img{
   padding: 5%;
   border-radius: 5cm;
 }
+#myPDF{
+  width: 85%;
+  height: 975px;
+  margin: auto;
+}
